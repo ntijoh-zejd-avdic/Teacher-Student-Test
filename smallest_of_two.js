@@ -1,4 +1,4 @@
 // Function to find the smallest number
-function smallestNumber(a, b) {
+function smallestOfTwo(a, b) {
     return a <= b ? a : b;
 }
